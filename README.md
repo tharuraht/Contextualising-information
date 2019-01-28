@@ -13,6 +13,7 @@ The report of the project can be found in the included PDF
 File description
 ================
 Include in the repository are the following:
+
 fpga_processor.py
 -----------------
 As described in the report, the ARM processor was run via python on jupyter notebooks, which was run on the board directly. This file was hence primarily used to load and execute the bitstream (.bit) file needed to program the FPGA. 
